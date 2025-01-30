@@ -179,3 +179,7 @@ data/
 # config folder of the IDE editor 
 .vscode/
 .idea/
+
+#logs
+logs/
+log/
