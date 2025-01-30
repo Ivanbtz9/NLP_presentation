@@ -13,6 +13,7 @@ Ce répertoire contient des ressources, des exemples de code, et des documents a
 git clone git@github.com:Ivanbtz9/NLP_presentation.git
 cd NLP_presentation
 python3 -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
