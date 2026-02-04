@@ -1,13 +1,17 @@
-# Présentation sur les outils du NLP (natural language processing)
+# NLP Tools Presentation
 
-Ce répertoire contient des ressources, des exemples de code et des documents associés à une présentation sur les outils du NLP.
+Ce dépôt accompagne une **présentation sur les outils du Natural Language Processing (NLP)**.  
+Il regroupe les supports pédagogiques ainsi que des exemples de code destinés à illustrer les concepts abordés.
 
-## Contenu :
+## 📁 Structure du dépôt
 
-    slides/ : Diaporama de la présentation.
-    src/ : Dossier avec le code pour réaliser deux travaux pratiques.
-    
-## Installation :
+- **slides/**  
+  Contient le diaporama de la présentation.
+
+- **src/**  
+  Contient le code source associé aux **deux travaux pratiques** présentés (TP).
+
+## ⚙️ Installation et configuration
 
 ```sh
 git clone git@github.com:Ivanbtz9/NLP_presentation.git

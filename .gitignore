@@ -172,6 +172,7 @@ cython_debug/
 
 #model weights
 models_checkpoints/
+checkpoints/
 
 # data set load localy
 data/
